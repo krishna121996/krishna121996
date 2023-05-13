@@ -1,7 +1,7 @@
 
 ### Hey there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-# I'm <a align="center" href="https://thekrishnaprasad.com"  target="_blank">Mayank Tyagi </a>,
+# I'm <a align="center" href="https://thekrishnaprasad.com"  target="_blank">Krishna Prasad </a>,
 A Software developer by Profession,  by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
 
 <img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Technology Analyst at Infosys Ltd.</b>
@@ -48,13 +48,13 @@ A Software developer by Profession,  by passion, a tech enthusiast, Problem solv
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna121996" alt="krishna" /> </p>
  
  <br>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=tmayank860&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>  -->
+<img src="https://github-readme-stats.vercel.app/api?username=krishna121996&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> 
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna121996&locale=en" alt="krishna121996" /></p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna121996&layout=compact&langs_count=8" alt="krishna121996" />
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna121996" alt="krishna121996" /></p>
-<!--[tmayank860 github stats](https://github-readme-stats.vercel.app/api?username=krishna121996&show_icons=true&hide_border=true)-->
+[krishna121996 github stats](https://github-readme-stats.vercel.app/api?username=krishna121996&show_icons=true&hide_border=true)
 
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/krishna121996/krishna121996) :pencil:
 
