@@ -2,7 +2,7 @@
 ### Hey there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 # I'm <a align="center" href="https://thekrishnaprasad.com"  target="_blank">Krishna Prasad </a>,
-A Software developer by Profession,  by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
+A Mobile app developer by Profession,  by passion, a tech enthusiast, Problem solver, passionate to learn new technologies.
 
 <img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Technology Analyst at Infosys Ltd.</b>
 
@@ -21,9 +21,9 @@ A Software developer by Profession,  by passion, a tech enthusiast, Problem solv
 
 
 
-- 👨🏻‍💻 I’m currently working on a <em>React Native</em> project @INFY
+- 👨🏻‍💻 I’m currently working on a <em>React Native</em> project @INFOSYS
 - 🌱 I love to solve real-life problems with my projects.
-- 🤔 I’m learning Data Structure and Algorithm.
+- 🤔 I’m learning Python and React JS.
 - 💬 Ask me about anything, I am happy to help.
 <br>
 **Languages and Tools:**
@@ -35,13 +35,10 @@ A Software developer by Profession,  by passion, a tech enthusiast, Problem solv
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <br>
 
