@@ -56,6 +56,6 @@ A Mobile app developer by Profession,  by passion, a tech enthusiast, Problem so
 :pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/krishna121996/krishna121996) :pencil:
 
 ⭐️ Recently working/learning :rocket:
-1. Mastering DSA & Problem Solving
-2. Improving React Native skill
+1. Learning latest technologies.
+2. Improving React Native skill.
 3. Creating content......
