@@ -48,7 +48,7 @@ A Software developer by Profession,  by passion, a tech enthusiast, Problem solv
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna121996" alt="krishna" /> </p>
  
  <br>
-<img src="https://github-readme-stats.vercel.app/api?username=krishna121996&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=krishna121996&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>  -->
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna121996&locale=en" alt="krishna121996" /></p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna121996&layout=compact&langs_count=8" alt="krishna121996" />
