@@ -4,7 +4,7 @@
 # I'm <a align="center" href="https://thekrishnaprasad.com"  target="_blank">Krishna Prasad </a>,
 A Mobile app developer by Profession,  by passion, a tech enthusiast, Problem solver, passionate to learn new technologies.
 
-<img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Technology Analyst at Infosys Ltd.</b>
+<img src="https://media.giphy.com/media/D0EjguuQzYr9m/giphy.gif" width="90px" height="90px"><br/><b>Technology Lead at Infosys Ltd.</b>
 
 <br/>
  
